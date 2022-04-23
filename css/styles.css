@@ -11,10 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     color: #8f8f8f;
+    font-size: 1.2rem;
 }
 
 .large-heading {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 800;
     line-height: 1.5;
     margin-bottom: 4%;
@@ -97,17 +98,16 @@ p {
 
 .feature-icon {
     color: #3D827F;
-    font-size: 7rem;
+    font-size: 8rem;
     margin-bottom: 1rem;
 }
 
 .feature-icon:hover {
     color: #226A67;
-    font-size: 7rem;
 }
 
 .feature-title {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     line-height: 2;
 }
 
